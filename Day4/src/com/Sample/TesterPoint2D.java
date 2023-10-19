@@ -18,7 +18,7 @@ public class TesterPoint2D {
 
 		Point2D[] ptarr = new Point2D[5];
 
-
+kslfjsl;djjjjjjjjlllllllllllllllllllllllll
 		System.out.println("1.Show All\n2.Add New\n3.Exit");
 
 		System.out.println("enter your choice : ");
