@@ -24,8 +24,7 @@ public class TesterPoint2D {
 		System.out.println("enter your choice : ");
 		choice = sc.nextInt();
 
-
-// this is point2D class for testing point2D class
+//take a pull from github
 
 		while (choice != 3) {
 
