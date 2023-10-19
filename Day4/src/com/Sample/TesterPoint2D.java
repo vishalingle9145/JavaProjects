@@ -24,7 +24,6 @@ public class TesterPoint2D {
 		System.out.println("enter your choice : ");
 		choice = sc.nextInt();
 
-//take a pull from github
 
 		while (choice != 3) {
 
